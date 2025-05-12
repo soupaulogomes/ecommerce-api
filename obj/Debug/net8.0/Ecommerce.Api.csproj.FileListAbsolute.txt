@@ -101,3 +101,4 @@ C:\Users\01702003\Downloads\Ecommerce.Api\Ecommerce.Api\bin\Debug\net8.0\Swashbu
 C:\Users\01702003\Downloads\Ecommerce.Api\Ecommerce.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\01702003\Downloads\Ecommerce.Api\Ecommerce.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\01702003\Downloads\Ecommerce.Api\Ecommerce.Api\obj\Debug\net8.0\Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\01702003\Downloads\Ecommerce.Api\Ecommerce.Api\obj\Debug\net8.0\Ecommerce.Api.sourcelink.json
