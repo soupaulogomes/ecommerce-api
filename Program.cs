@@ -11,6 +11,10 @@ builder.Services.AddDbContext<EcommerceContext>(options =>
 
 builder.Services.AddControllers();
 
+// Força a API a escutar na porta fornecida pelo Railway
+var port = Environment.GetEnvironmentVariable("PORT") ?? "80";
+builder.WebHost.UseUrls($"http://*:{port}");
+
 var app = builder.Build();
 
 app.UseSwagger();

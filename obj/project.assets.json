@@ -2676,11 +2676,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\01702003\\Downloads\\Ecommerce.Api\\Ecommerce.Api\\Ecommerce.Api.csproj",
+      "projectUniqueName": "C:\\Users\\01702003\\Documents\\Projetos Paulo\\Ecommerce.Api\\Ecommerce.Api.csproj",
       "projectName": "Ecommerce.Api",
-      "projectPath": "C:\\Users\\01702003\\Downloads\\Ecommerce.Api\\Ecommerce.Api\\Ecommerce.Api.csproj",
+      "projectPath": "C:\\Users\\01702003\\Documents\\Projetos Paulo\\Ecommerce.Api\\Ecommerce.Api.csproj",
       "packagesPath": "C:\\Users\\01702003\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\01702003\\Downloads\\Ecommerce.Api\\Ecommerce.Api\\obj\\",
+      "outputPath": "C:\\Users\\01702003\\Documents\\Projetos Paulo\\Ecommerce.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\01702003\\AppData\\Roaming\\NuGet\\NuGet.Config"
