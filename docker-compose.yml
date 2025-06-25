@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  ecommerce-api:
+    container_name: ecommerce-api
+    image: ecommerce-api:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+    restart: unless-stopped
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    networks:
+      - ecommerce-network
+
+networks:
+  ecommerce-network:
+    driver: bridge
